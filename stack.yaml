@@ -1,0 +1,13 @@
+flags: {}
+packages:
+- '.'
+extra-deps:
+- FTGL-2.1
+- GLURaw-1.5.0.1
+- ObjectName-1.1.0.0
+- OpenGL-2.13.0.0
+- OpenGLRaw-2.5.2.1
+- bitmap-0.0.2
+- bitmap-opengl-0.0.1.5
+- stb-image-0.2.1
+resolver: lts-3.4
